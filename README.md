@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Purpose
+
+Implementation of our massive java program GEMS. This is intended to help me learn React and understand its UI capabilities.
+
 ## Available Scripts
 
 In the project directory, you can run:
